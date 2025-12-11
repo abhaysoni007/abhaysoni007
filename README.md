@@ -1,12 +1,6 @@
 <h1 align="left">Hey 👋 I'm Abhay</h1>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=86&section=header&reversal=false&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=My%20name%20is%20Abhay%20Soni,%20and%20I'm%20a%20developer%20focused%20on%20AI,%20Machine%20Learning,%20and%20Cryptography,%20from%20Kanpur,%20India.&descSize=15&descAlign=50&descAlignY=50&color=random"  />
-</div>
-
-###
 
 <br clear="both">
 
