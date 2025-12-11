@@ -1,7 +1,5 @@
 <h1 align="left">Hey 👋 I'm Abhay</h1>
 
-
-
 <br clear="both">
 
 <h3 align="center"></h3>
