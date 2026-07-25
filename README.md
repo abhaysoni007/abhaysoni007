@@ -139,7 +139,19 @@
   <a href="https://www.hackerrank.com/profile/abhay10003" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hackerrank logo" />
   </a>
+<a href="https://leetcode.com/u/abhaysoni007/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="leetcode logo" />
+</a>
 </div>
+
+<!-- stats section -->
+<h3 align="left">🧩 LeetCode</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abhaysoni007?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
+
+
+
 
 ###
 
