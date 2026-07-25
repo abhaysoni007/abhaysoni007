@@ -1,28 +1,37 @@
-<h1 align="left">Hey 👋 I'm Abhay</h1>
+<a href="https://github.com/abhaysoni007">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=Abhay%20Soni&fontSize=60&fontColor=FFFFFF&animation=fadeIn&stroke=00FFFF&strokeWidth=1&desc=Creating%20bugs%20since%202021%20%7C%20AI%20%C2%B7%20ML%20%C2%B7%20Cryptography&descSize=18&descAlignY=62" />
+</a>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=while(alive)+%7B+eat();+sleep();+code();+debug();+%7D;;Building+intelligent+%2B+secure+systems.;Segfault+survivor.+Delta+%3E+full+file.;Every+bug+is+a+lesson+in+disguise." />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhaysoni007&label=Profile%20views&color=00ffff&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/abhaysoni007?label=Followers&style=flat-square&color=00ffff" />
+  <img src="https://img.shields.io/badge/status-compiling...-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/uptime-99.9%25%20(caffeine%20dependent)-black?style=flat-square" />
+</p>
+
+###
+
+<h2 align="left">🧑‍💻 About me</h2>
+
+###
+
+<img align="right" height="191" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1mem9jcHBkcjRqejVhY2ZheTl4eG8waW8zZXpxNWdyZ2g0OW1zeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" />
+
+###
+
+<p align="left">✨ Creating bugs since 2021 — and continuously refining the craft of building reliable, scalable systems.<br><br>📚 I'm currently learning Artificial Intelligence, Machine Learning, and Cryptography to deepen my expertise in secure and intelligent system design.<br><br>🎯 Goal is to engineer high-impact, efficient, and secure solutions through advanced AI and cryptographic techniques.<br><br>🧬 Currently hacking on <b><a href="https://github.com/abhaysoni007/CodeSync.ai">CodeSync.ai</a></b> — a browser-native VS Code–style collab IDE whose <b>Hybrid Data Sync Engine</b> ships <i>deltas, not files</i>.<br><br>🎲 Fun fact: I believe every bug is an opportunity to understand systems more deeply and design them more intelligently.</p>
+
+###
 
 <br clear="both">
 
-<h3 align="center"></h3>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="191" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1mem9jcHBkcjRqejVhY2ZheTl4eG8waW8zZXpxNWdyZ2g0OW1zeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"  />
-
-###
-
-<p align="left">✨ Creating bugs since 2021 — and continuously refining the craft of building reliable, scalable systems.<br><br>📚 I'm currently learning Artificial Intelligence, Machine Learning, and Cryptography to deepen my expertise in secure and intelligent system design.<br><br>🎯 Goals is to engineer high-impact, efficient, and secure solutions through advanced AI and cryptographic techniques.<br><br>🎲 Fun fact : I believe every bug is an opportunity to understand systems more deeply and design them more intelligently.</p>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Skills</h3>
+<h3 align="left">🛠️ Skills</h3>
 
 ###
 
@@ -59,6 +68,10 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -69,25 +82,65 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
 ###
 
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhaysoni007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysoni007&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysoni007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhaysoni007&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
+
+<h3 align="left">🏆 Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhaysoni007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+<h3 align="left">💬 Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<h3 align="left">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhaysoni007/abhaysoni007/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+###
+
+<h3 align="left">🔗 Connect with me</h3>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abhaysoni2804/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo" />
   </a>
-  
-  
+  <a href="https://x.com/Abhay_soni_007" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="x logo" />
+  </a>
   <a href="https://www.instagram.com/abhay.soni.007/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo" />
   </a>
-  <a href="yuvrajsoni411@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
+  <a href="mailto:yuvrajsoni411@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo" />
   </a>
   <a href="https://www.hackerrank.com/profile/abhay10003" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hackerrank logo" />
   </a>
 </div>
 
@@ -95,8 +148,12 @@
 
 <br clear="both">
 
+<div align="center">
+  <code>// There are 10 kinds of people: those who read this in binary, and those who don't.</code>
+</div>
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
 
 ###
