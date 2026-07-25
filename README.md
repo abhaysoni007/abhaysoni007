@@ -92,23 +92,20 @@
 ###
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhaysoni007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhaysoni007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> -->
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysoni007&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysoni007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhaysoni007&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
+</p> 
 
-<h3 align="left">🏆 Trophies</h3>
+<!-- <h3 align="left">🏆 Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhaysoni007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
+</p> -->
 
 <h3 align="left">💬 Dev Quote</h3>
 
@@ -116,11 +113,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<h3 align="left">🐍 Contribution Snake</h3>
+<!-- <h3 align="left">🐍 Contribution Snake</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhaysoni007/abhaysoni007/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</p> -->
 
 ###
 
