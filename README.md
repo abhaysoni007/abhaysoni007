@@ -44,7 +44,7 @@ CS undergrad (**B.Tech, 2027**, CGPA 8.3/10) who ships **production full-stack s
 | Project | Highlights | Stack |
 |---|---|---|
 | **[CodeSyncAI](https://github.com/abhaysoni007/CodeSync.ai)** · [Live Demo](https://codesyncai.vercel.app/) | Real-time collaborative IDE. **10+ concurrent users** with conflict-free sync, in-browser code execution at **sub-500ms** round trip, **+35% Lighthouse** score | `React` `Redux` `Node.js` `MongoDB` `WebSockets` `Jest` |
-| **MEDORA** · [Live Demo](#) | AI-native hospital OS. Modular monolith with RBAC + **tamper-evident audit logs**; GenAI layer for **citation-verified SOAP notes** with PHI minimization and fail-safe fallbacks | `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Redis` `Python` |
+| **MEDORA** · [Live Demo](https://medora.os.abhaysoni.app/) | AI-native hospital OS. Modular monolith with RBAC + **tamper-evident audit logs**; GenAI layer for **citation-verified SOAP notes** with PHI minimization and fail-safe fallbacks | `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Redis` `Python` |
 | **[PHANTOM](#)** | Hybrid file-encryption protocol: X25519 + AES-256-GCM + Ed25519 + optional **Kyber-768 (PQC)**. 11-endpoint API, **~190 security tests** (forgery, replay, nonce reuse, tampering) | `Python` `FastAPI` `HKDF` `SHA-3` `pytest` |
 
 ---
